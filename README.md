@@ -1,5 +1,6 @@
 # Algorithms
 It is very similar to the course of MIT6.046J. The study of algorithms has been applied in a number of different  domains, and to introduce formal concepts of measures of complexity and algorithms analysis.
+
 [Lecture1](https://github.com/nothairyyq/Algorithms/blob/main/6.046J%20%20Lec01.pdf): 
 
 > 1.  Analysis of Algorithms
