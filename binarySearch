@@ -1,0 +1,26 @@
+def binary_search(arr,query):
+    lo,hi=0,len(arr)-1
+    while lo<=hi:
+        mid=(lo+hi)//2
+        if arr[mid] == query:
+            return mid
+        elif query>arr[mid]:
+            lo = mid+1
+        else:
+            hi=mid-1
+    return None
+
+def binary_search_recur(arr,query,low,high):
+    if low > high:
+        return None
+    mid = (low+high)//2
+    if query<arr[mid]:
+        return binary_search_recur(arr,query,low,mid-1)
+    elif query>arr[mid]:
+        return binary_search_recur(arr,query,mid+1,high)
+    else:
+        return mid
+if __name__ =="__main__":
+    a=[1,2,3,4,5,6,7]
+    print(binary_search([1,2,3,4,5,6,7],5))
+    print(binary_search_recur(a,5,0,6))
