@@ -18,3 +18,12 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 >    1. Substitution-Method
 >    2. Recursion-Tree Method
 >    3. Master-Method
+
+
+
+| Algorithm     |  Time    |  Note    |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
