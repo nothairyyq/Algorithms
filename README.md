@@ -23,7 +23,7 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 
 | Algorithm     |  Time    |  Note    |
 | ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+|  [Insert Sort](https://github.com/nothairyyq/Algorithms/blob/main/insertionSort.py)    | O(n^2)      |      |
+|  [Merge Sort](https://github.com/nothairyyq/Algorithms/blob/main/mergeSort.py)    | O(n log(n))     |  Divide-Conquer    |
+|  [Binary Search](https://github.com/nothairyyq/Algorithms/blob/main/binarySearch)    |  O(log n )    |   Divide-Conquer   |
 |      |      |      |
