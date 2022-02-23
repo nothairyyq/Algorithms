@@ -27,4 +27,4 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 |  [Merge Sort](https://github.com/nothairyyq/Algorithms/blob/main/mergeSort.py)    | O(n log(n))     |  Divide-Conquer    |
 | Selection Sort      |     |      |
 |  [Binary Search](https://github.com/nothairyyq/Algorithms/blob/main/binarySearch)    |  O(log n )    |   Divide-Conquer   |
-|      |      |      |
+|  Sequential Search    |      |      |
