@@ -28,3 +28,4 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 | Selection Sort      |     |      |
 |  [Binary Search](https://github.com/nothairyyq/Algorithms/blob/main/binarySearch)    |  O(log n )    |   Divide-Conquer   |
 |  Sequential Search    |      |      |
+|  [power x](https://github.com/nothairyyq/Algorithms/blob/main/power.py)     | O(log n)    |  Divide-Conquer      |
