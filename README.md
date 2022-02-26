@@ -21,12 +21,12 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 
 
 
-| Algorithm     |  Time    |  Note    |
+| Algorithm     |  Time    |Space|  Note    |
 | ---- | ---- | ---- |
-|  [Insert Sort](https://github.com/nothairyyq/Algorithms/blob/main/insertionSort.py)    | O(n^2)      |      |
-|  [Merge Sort](https://github.com/nothairyyq/Algorithms/blob/main/mergeSort.py)    | O(n log(n))     |  Divide-Conquer    |
-| [Selection Sort](Algorithms/selectionSort.py)      |  O(n^2)   |      |
-|[Quick Sort](Algorithms/quickSort.py)|Best-Case: O(n log(n)); Worst-Case: O(n^2)|Divide and conquer|
+|  [Insert Sort](Algorithms/Sort/insertionSort.py)    | O(n^2)      |    O(1)  | |
+|  [Merge Sort](Algorithms/Sort/mergeSort.py)    | O(n log(n))     |  Divide-Conquer    |
+| [Selection Sort](Algorithms/Sort/selectionSort.py)      |  O(n^2)   |      |
+|[Quick Sort](Algorithms/Sort/quickSort.py)|Best(Average)-Case: O(n log(n));<br> Worst-Case: O(n^2)|Divide and conquer|
 |  [Binary Search](https://github.com/nothairyyq/Algorithms/blob/main/binarySearch)    |  O(log n )    |   Divide-Conquer   |
 |  Sequential Search    |      |      |
 |  [power x](https://github.com/nothairyyq/Algorithms/blob/main/power.py)     | O(log n)    |  Divide-Conquer      |
