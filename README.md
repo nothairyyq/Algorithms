@@ -22,7 +22,7 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 
 
 | Algorithm     |  Time    |Space|  Note    |
-| ---- | ---- | ---- |
+| ---- | ---- | ---- |---- |
 |  [Insert Sort](Algorithms/Sort/insertionSort.py)    | O(n^2)      |    O(1)  | |
 |  [Merge Sort](Algorithms/Sort/mergeSort.py)    | O(n log(n))     |  Divide-Conquer    | |
 | [Selection Sort](Algorithms/Sort/selectionSort.py)      |  O(n^2)   |      | |
