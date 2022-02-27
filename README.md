@@ -26,8 +26,11 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 |  [Insert Sort](Algorithms/Sort/insertionSort.py)    | O(n^2)      |    O(1)  | |
 |  [Merge Sort](Algorithms/Sort/mergeSort.py)    | O(n log(n))     |   O(n)  | Divide-Conquer |
 | [Selection Sort](Algorithms/Sort/selectionSort.py)      |  O(n^2)   |   O(1)   | |
-|[Quick Sort](Algorithms/Sort/quickSort.py)|Best(Average)-Case: O(n log(n));<br> Worst-Case: O(n^2)| O(log n ) <br> Deepth | Divide and conquer|
+|[Quick Sort](Algorithms/Sort/quickSort.py)|Best-Case: O(n log(n)) <br> Average-Case O(n log(n)) <br> Worst-Case: O(n^2)| O(log n ) <br> Deepth | Divide and conquer|
 |[Randomly Quick Sort](Alogrithms/Sort/random_quickSort.py)|O(n log(n))|Worst: O(n) <br> Best: O(log(n))||
+|[Heap Sort]()|O(n logn)|O(1)||
 |  [Binary Search](Algorithms/binarySearch)    |  O(log n )    |     | Divide-Conquer |
 |  Sequential Search    |      |      | |
 |  [power x](Algorithms/power.py)     | O(log n)    |       | Divide-Conquer  |
+|Build Heap|O(n)|||
+|Heapify|O(log n)|||
