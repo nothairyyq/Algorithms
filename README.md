@@ -35,3 +35,4 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 |Build Heap|O(n)|||
 |Heapify|O(log n)|||
 |[Activity Selection](https://github.com/nothairyyq/Algorithms/blob/main/Greedy/activitySelection.py)|Sorted: O(n) <br> Not Sorted: O(n logn)||Greedy|
+|[Huffman Coding](https://github.com/nothairyyq/Algorithms/blob/main/Greedy/HuffmanCode.py)|Sorted Input: O(n) <br> O(n logn)||Greedy|
