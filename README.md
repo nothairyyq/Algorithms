@@ -39,6 +39,6 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 |[0-1 Knapsack](https://github.com/nothairyyq/Algorithms/blob/main/Greedy/01Knapsack.py)|O(n logn)|| Greedy <br> Not Found Best|
 
 
--[] Activity Selection
--[] Huffman Coding
--[] 0-1 Knapsack Greedy
+- [] Activity Selection
+- [] Huffman Coding
+- [] 0-1 Knapsack Greedy
