@@ -38,7 +38,7 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 |[Huffman Coding](https://github.com/nothairyyq/Algorithms/blob/main/Greedy/HuffmanCode.py)|Sorted Input: O(n) <br> O(n logn)||Greedy|
 |[0-1 Knapsack](https://github.com/nothairyyq/Algorithms/blob/main/Greedy/01Knapsack.py)|O(n logn)|| Greedy <br> Not Found Best|
 |[Fibonacci Number](https://github.com/nothairyyq/Algorithms/blob/main/DP/Fibonacci.py)|Recursion: O(2^n) <br> Memory Search: O(n) <br> DP: O(n)||DP|
-|[Assembly Line Secheduling](https://github.com/nothairyyq/Algorithms)|O(n)||DP|
+|[Assembly Line Secheduling]https://github.com/nothairyyq/Algorithms/blob/main/DP/Fibonacci.py|O(n)||DP|
 
 
 - [] Activity Selection
