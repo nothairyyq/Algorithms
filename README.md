@@ -39,6 +39,7 @@ It is very similar to the course of MIT6.046J. The study of algorithms has been 
 |[0-1 Knapsack](https://github.com/nothairyyq/Algorithms/blob/main/Greedy/01Knapsack.py)|O(n logn)|| Greedy <br> Not Found Best|
 |[Fibonacci Number](https://github.com/nothairyyq/Algorithms/blob/main/DP/Fibonacci.py)|Recursion: O(2^n) <br> Memory Search: O(n) <br> DP: O(n)||DP|
 |[Assembly Line Secheduling](https://github.com/nothairyyq/Algorithms/blob/main/DP/AssembTime.py)|O(n)||DP|
+|[01 Knapsack](https://github.com/nothairyyq/Algorithms/blob/main/DP/01Knapsack.py)|O(nW)|O(nW)/O(2W)|DP|
 
 
 - [] Activity Selection
